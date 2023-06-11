@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2 font colour='red'>Hello World! Manual deployemnt of MAven</h2>
+<h2 style"colour; red">Hello World! Automated deployemnt of MAven</h2>
 </body>
 </html>
